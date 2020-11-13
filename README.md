@@ -4,7 +4,7 @@
  
  - ⚡ Fun fact: `1일 1커밋`
  
- - 🙌 Get in Touch `Vlog` 🙌 : https://velog.io/@yoonah-dev
+ - 🙌 Get in Touch `Vlog`  : https://velog.io/@yoonah-dev
 
 <br>
 
