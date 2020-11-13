@@ -3,6 +3,9 @@
  - 🌱 I’m currently learning `iOS` `Swift` `RxSwift` 
  
  - ⚡ Fun fact: `1일 1커밋`
+ 
+ - 🙌 Get in Touch
+   - `Vlog` : https://velog.io/@yoonah-dev
 
 
 [![YoonAh-dev's github stats](https://github-readme-stats.vercel.app/api?username=YoonAh-dev&show_icons=true&theme=buefy)](https://github.com/YoonAh-dev/github-readme-stats)
