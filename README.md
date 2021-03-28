@@ -1,10 +1,19 @@
 ### Hi there 👋 
 
- - 🌱 I’m currently learning `iOS` `Swift` `RxSwift` 
+ - 🌱 Tools
+
+ㅤ
+ㅤ
+ <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/ios.svg" /> ㅤ
+  <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/swift.svg" />ㅤ
+ <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/node-dot-js.svg" /> ㅤ
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/javascript.svg" />ㅤ
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/react.svg" /> ㅤ
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/sketch.svg" /> ㅤ
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
  
- - ⚡ Fun fact: `1일 1커밋`
  
- - 🙌 Get in Touch `Tistory`  : https://cannabuffer.tistory.com/
+ - 🙌 `Tistory`  : https://cannabuffer.tistory.com/
 
 <br>
 
