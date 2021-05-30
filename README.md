@@ -17,7 +17,7 @@
 
 <br>
 
-[![YoonAh-dev's github stats](https://github-readme-stats.vercel.app/api?username=YoonAh-dev&show_icons=true&theme=buefy)](https://github.com/YoonAh-dev/github-readme-stats)
+[![YoonAh-dev's github stats](https://github-readme-stats.vercel.app/api?username=YoonAh-dev&show_icons=true)](https://github.com/YoonAh-dev/github-readme-stats)
 
 
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=prism_900408)](https://solved.ac/prism_900408)
