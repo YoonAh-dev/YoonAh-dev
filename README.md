@@ -13,7 +13,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
  
  
- - 🙌 `swift-pocket`  : https://swift-pocket.oopy.io/
+ - 🙌 `swift-pocket`  : https://bit.ly/2TQcQGN
 
 <br>
 
