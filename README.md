@@ -13,7 +13,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
  
  
- - 🙌 `velog`  : https://velog.io/@yoonah-dev
+ - 🙌 `notion`  : https://yxxnaxxin.notion.site/Duna-Pocket-c9b685a4677445409efb3f192a7b6488
 
 <br>
 
