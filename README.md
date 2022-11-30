@@ -13,7 +13,7 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/git.svg" />
  
  
- - 🙌 `notion blog`  : https://bit.ly/3udmwJL
+ - 🙌 `notion blog`  : [https://yoonah-dev.oopy.io/](https://yoonah-dev.oopy.io/)
 
 <br>
 
