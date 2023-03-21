@@ -9,22 +9,18 @@ _**Contact.**_<br>
  
 _**Channel.**_<br>
  
-<a href="https://yoonah-dev.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=bloglovin&logoColor=white"/></a>
+<a href="https://yoonah-dev.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=bloglovin&logoColor=white"/></a> <a href="https://bit.ly/3pxS9vo" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat-square&logo=github%20sponsors&logoColor=white"/></a>
  
- _**Portfolio.**_<br>
- 
- <a href="https://bit.ly/3pxS9vo" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat-square&logo=github%20sponsors&logoColor=white"/></a>
- 
-  _**Tech Stack.**_<br>
+  _**Skills.**_<br>
  
  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white">  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black"> <br> <img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
  
- <br>
+ <br><br>
+ 
+  ![YoonAh-dev's github stats](https://github-readme-stats.vercel.app/api?username=YoonAh-dev&show_icons=true&count_private=true)
  
  [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=prism_900408)](https://solved.ac/prism_900408) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoonAh-dev&count_bg=%23A670BE&title_bg=%23BEBCBC&icon=&icon_color=%23C2C2C2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
- ![YoonAh-dev's github stats](https://github-readme-stats.vercel.app/api?username=YoonAh-dev&show_icons=true&count_private=true)
  
  </div>
  
@@ -32,19 +28,7 @@ _**Channel.**_<br>
  ---
 <br>
  
- _**❏ Experience.**_<br>
- 
- | Period | Contents |
- |--|:--:|
- | `2022.03. ~ 2022.12.` | Apple Developer Academy @POSTEC 1기 Tech 멘티 |
- | `2021.09. ~ 2022.01.` | 대학생연합 IT벤처창업 동아리 SOPT 29기 iOS 파트 OB |
- | `2021.03. ~ 2021.07.` | 대학생연합 IT벤처창업 동아리 SOPT 28기 iOS 파트 OB |
- | `2020.09. ~ 2021.01.` | 대학생연합 IT벤처창업 동아리 SOPT 27기 iOS 파트 YB |
- | `2017.03. ~ 2019.02.` | 숙명여대 프로그래밍 동아리 Forza 20, 21기 |
-
- <br>
- 
- _**❏ Project.**_<br>
+ <div align="center"> 
  
 | Link | Project | More about.. |
 |:--:|:--:|:--:|
@@ -57,3 +41,4 @@ _**Channel.**_<br>
 
 <br>
  
+</div>
