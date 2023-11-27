@@ -4,7 +4,7 @@
 
 _**Contact.**_<br>
  
- <a href="tlsdbsdk05250@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>  <a href="https://www.instagram.com/yxxnaxxin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> <a href="https://www.linkedin.com/in/yoonah-shin-957b08237/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+ <a href="tlsdbsdk05250@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>  <a href="https://www.instagram.com/yxxnaxxin/" target="_blank"> <a href="https://www.linkedin.com/in/yoonah-shin-957b08237/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
  
 _**Channel.**_<br>
