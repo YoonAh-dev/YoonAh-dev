@@ -11,15 +11,22 @@ _**Channel.**_<br>
  
 <a href="https://yoonah-dev.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=bloglovin&logoColor=white"/></a> <a href="https://yoonah-dev.framer.website/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat-square&logo=github%20sponsors&logoColor=white"/></a>
  
-  _**Skills.**_<br>
+  _**Language.**_<br>
  
  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
+ _**Programming Tools.**_<br>
  
  <img src="https://img.shields.io/badge/Xcode-1E1E1E?style=for-the-badge&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/visual studio code-011A87?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
  
- <img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+ <img src="https://img.shields.io/badge/Github Action-2088FF?style=for-the-badge&logo=github%20actions&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+
+_**Communication Tools.**_<br>
  
- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Slack-ff4141?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/postman-f46b36?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=yellow">
+ <img src="https://img.shields.io/badge/Jira-eaecee?style=for-the-badge&logo=jira&logoColor=2584ff"> <img src="https://img.shields.io/badge/Confluence-eaecee?style=for-the-badge&logo=confluence&logoColor=2584ff"> <img src="https://img.shields.io/badge/Slack-ff4141?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
+ 
+ <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/postman-f46b36?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/firebase-1E1E1E?style=for-the-badge&logo=firebase&logoColor=yellow">
  
  <br><br>
  
