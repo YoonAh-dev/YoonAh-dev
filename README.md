@@ -42,11 +42,9 @@
 
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>](mailto:tlsdbsdk05250@gmail.com)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/yoonah-shin-957b08237/)
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>](https://www.instagram.com/yxxnaxxin/)
 
 
 ### 🔗 Channel
 
 [<img src="https://img.shields.io/badge/DevBlog-000000?style=flat-square&logo=bloglovin&logoColor=white"/>](https://yoonah-dev.oopy.io/)
-[<img src="https://img.shields.io/badge/Portfolio-EA4AAA?style=flat-square&logo=github%20sponsors&logoColor=white"/>](https://yoonah-dev.framer.website/)
 
