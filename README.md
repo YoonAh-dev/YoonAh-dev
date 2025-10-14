@@ -16,7 +16,7 @@
 
 ### 🧳 Experience
 
-- **iOS Developer @ [Coinone](https://coinone.co.kr/) (2024.03 – Present)**
+- **iOS Developer @ [Coinone](https://coinone.co.kr/) (2024.03 – 2025.10)**
 
   Developing financial mobile apps using Swift, UIKit, and SwiftUI in a real-time trading environment.
 
